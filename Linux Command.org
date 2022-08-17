@@ -1,0 +1,59 @@
+* Linux Command
+** Files
+1. pwd
+2. ls
+3. cd
+4. cp
+5. mv
+6. rm
+7. mkdir
+8. rmdir
+9. mount
+10. umount
+
+** User
+1. sudo
+2. chmod
+3. useradd
+4. usermod
+5. userdel
+6. passwd
+7. groupadd
+8. groupdel
+
+** System
+1. ps
+2. kill
+3. top
+4. free
+5. df
+6. du
+7. date
+8. ln
+
+** Network
+1. ifconfig
+2. ping
+3. netstat
+4. scp
+5. ssh
+6. telnet
+7. wget
+8. rz
+9. sz
+10. tcpdump
+
+** Program
+1. gcc
+2. gdb
+3. man
+4. makefile
+5. CMake
+
+** Text
+1. grep
+2. sed
+3. awk
+4. tar
+5. wc
+6. gzip

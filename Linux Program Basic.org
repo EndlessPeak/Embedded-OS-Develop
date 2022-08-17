@@ -1,0 +1,52 @@
+* Linux Program
+** File
+1. open
+2. read
+3. write
+4. close
+
+** Process
+1. fork
+2. exec
+3. wait
+
+** Thread
+1. pthread
+2. sem
+3. mutex
+
+** Sync & Share
+1. pipe
+2. mq
+3. sem
+4. mutex
+5. shm
+
+** Socket
+1. socket
+2. accept
+3. listen
+4. bind
+5. connect
+6. send
+7. recv
+8. close
+
+** IO Model
+1. block model
+2. non-block model
+3. multiplex
+    1. poll
+    2. epoll
+    3. select
+4. signal
+
+** Tool
+1. GNU make
+2. cmocka
+3. valgrind
+4. SQL
+    1. SQLite
+    2. MongDB
+5. OpenSSL
+6. libcurl

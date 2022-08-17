@@ -1,0 +1,4 @@
+* Embedded Operating System Develop Plan
+I'll use this repo to record my EOS learning process.
+
+Note that when a post is completed it will be moved to my blog without being managed by this repo any longer.
